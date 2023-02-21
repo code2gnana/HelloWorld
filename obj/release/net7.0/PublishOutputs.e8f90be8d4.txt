@@ -1,0 +1,5 @@
+C:\Babu_Data\git\repo\local\HelloWorld\bin\Release\net7.0\publish\HelloWorld.exe
+C:\Babu_Data\git\repo\local\HelloWorld\bin\Release\net7.0\publish\HelloWorld.dll
+C:\Babu_Data\git\repo\local\HelloWorld\bin\Release\net7.0\publish\HelloWorld.deps.json
+C:\Babu_Data\git\repo\local\HelloWorld\bin\Release\net7.0\publish\HelloWorld.runtimeconfig.json
+C:\Babu_Data\git\repo\local\HelloWorld\bin\Release\net7.0\publish\HelloWorld.pdb

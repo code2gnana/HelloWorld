@@ -1,0 +1,15 @@
+C:\Babu_Data\git\repo\local\HelloWorld\bin\release\net7.0\HelloWorld.exe
+C:\Babu_Data\git\repo\local\HelloWorld\bin\release\net7.0\HelloWorld.deps.json
+C:\Babu_Data\git\repo\local\HelloWorld\bin\release\net7.0\HelloWorld.runtimeconfig.json
+C:\Babu_Data\git\repo\local\HelloWorld\bin\release\net7.0\HelloWorld.dll
+C:\Babu_Data\git\repo\local\HelloWorld\bin\release\net7.0\HelloWorld.pdb
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\HelloWorld.AssemblyInfo.cs
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\HelloWorld.dll
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\refint\HelloWorld.dll
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\HelloWorld.pdb
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\HelloWorld.genruntimeconfig.cache
+C:\Babu_Data\git\repo\local\HelloWorld\obj\release\net7.0\ref\HelloWorld.dll

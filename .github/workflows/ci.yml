@@ -1,0 +1,23 @@
+name: Dotnet Hello World apiVersion
+
+on: 
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    
+    runs-on: windows-latest
+
+    env: 
+      App_Packages_Directory: AppPackages
+      SigningCertificate: DotNetAppDemo.pfx
+      Solution_Path: HelloWorld.sln
+      Test_Project_Path: HelloWorld
+
+
+  
